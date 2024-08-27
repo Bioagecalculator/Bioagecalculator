@@ -6,6 +6,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - Bio age formula: heart rate at rest [BPM] / 60 * age
+- PayPal zabiyakod@mail.ru
 
 <!---
 Bioagecalculator/Bioagecalculator is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
